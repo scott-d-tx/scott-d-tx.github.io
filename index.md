@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Howdy!
 This is a place for a future project. 
 
@@ -6,4 +10,3 @@ This is a place for a future project.
 [R Books](https://scott-d-tx.github.io/r_books)
 
 [About Me](https://scott-d-tx.github.io/about)
-
