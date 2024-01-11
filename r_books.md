@@ -13,4 +13,6 @@ Here's a list of cool and free R books.
 * [Tidy Modeling with R](https://www.tmwr.org/)
 * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 
+And many others at [Bookdown.org](https://bookdown.org/)!
+
 [Home](https://scott-d-tx.github.io/)
