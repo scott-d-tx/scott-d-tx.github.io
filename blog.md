@@ -1,4 +1,7 @@
-# Blog Posts
+--- 
+title: Blog 
+--- 
+# Latest Posts
 <ul>
   {% for post in site.posts %}
     <li>
