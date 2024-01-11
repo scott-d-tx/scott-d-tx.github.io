@@ -1,5 +1,7 @@
 # R Books
 
+One of the things I love about the R programming language is the enthusiastic community of R users. There are a lot of really talented folks using R. Many of them give back to the R community by creating tutorials, guides, documentation and books for the R community. 
+
 Here's a list of cool and free R books.
 
 [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
