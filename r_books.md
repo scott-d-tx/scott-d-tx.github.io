@@ -11,3 +11,5 @@ Here's a list of cool and free R books.
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 * [Tidy Modeling with R](https://www.tmwr.org/)
 * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+
+[Home](https://scott-d-tx.github.io/)
